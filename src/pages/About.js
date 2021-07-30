@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col } from '../components/Grid';
 import Jumbotron from '../components/Jumbotron';
-import picture from '../assets/profile_picture.png';
+import picture from '../assets/profile_picture.jpg';
 
 const About = () => {
    return (
