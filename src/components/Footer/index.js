@@ -19,7 +19,7 @@ const Footer = () => {
                 </a>
                 <a 
                     className="ml-4 text-dark" 
-                    href="www.linkedin.com/in/elcin-koyuncu-us" 
+                    href="http://www.linkedin.com/in/elcin-koyuncu-us" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     title="Linkedin"
