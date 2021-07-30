@@ -1,0 +1,51 @@
+[
+	{
+		"id": 1,
+		"title": "Note Taker",
+		"description": "To be able to write and save notes. Can organize your thoughts and keep track of tasks you need to complete.",
+		"repoLink": "https://elcinkoyuncu.github.io/homework10/",
+		"deployedLink": "https://mighty-coast-46747.herokuapp.com/",
+		"picturePath": "note_taker"
+	},
+	{
+		"id": 2,
+		"title": "Password Generate",
+		"description": "Create an application that generates a random password based on user-selected criteria.",
+		"repoLink": "https://github.com/ElcinKoyuncu/homework3",
+		"deployedLink": "https://elcinkoyuncu.github.io/homework3/",
+		"picturePath": "password_generate"
+	},
+	{
+		"id": 3,
+		"title": "Personal Cinema Playlist",
+		"description": "Movie-Watchlist (Personal Cinema Playlist) is a web application that lets the users search for movies, add them to their queue, provide reviews and ratings, and share their reviews on Facebook.",
+		"repoLink": "https://github.com/ElcinKoyuncu/movie-watch-list",
+		"deployedLink": "https://elcinkoyuncu.github.io/movie-watch-list/",
+		"picturePath": "project1"
+	},
+	{
+		"id": 4,
+		"title": "Appointment Manager",
+		"description": "Lady Lash is a small business runned by only one person. All the appointment's booking, cancellations and price negotiations are handled via Instagram, which leads to late replies, doble bookings, upset customers and cancellations. Our app is intended to solve all these problems.",
+		"repoLink": "https://github.com/ElcinKoyuncu/Appointment-Manager",
+		"deployedLink": "https://fathomless-eyrie-79379.herokuapp.com/",
+		"picturePath": "project2"
+	},
+	{
+		"id": 5,
+		"title": "Weather Dashboard",
+		"description": "Build a weather dashboard application with search functionality to find current weather conditions and the future weather outlook for",
+		"repoLink": "https://github.com/ElcinKoyuncu/homework6",
+		"deployedLink": "https://elcinkoyuncu.github.io/homework6/",
+		"picturePath": "weather_dashboard"
+	},
+	{
+		"id": 6,
+		"title": "Work Day Schedular",
+		"description": "To add important events to a daily planner and can manage my time effectively ",
+		"repoLink": "https://github.com/ElcinKoyuncu/homework5",
+		"deployedLink": "https://elcinkoyuncu.github.io/homework5/",
+		"picturePath": "work_day_schedular"
+	}
+	
+]
