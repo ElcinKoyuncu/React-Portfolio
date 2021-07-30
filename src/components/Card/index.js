@@ -6,10 +6,8 @@ import project1 from '../../assets/project1.png';
 import project2 from '../../assets/project2.png';
 import weather_dashboard from '../../assets/weather_dashboard.png';
 import work_day_schedular from '../../assets/work_day_schedular.png';
-// import notes from '../../assets/notes.png';
-// import employee_directory from '../../assets/employee_directory.png';
-// import team_generator from '../../assets/team_generator.png';
-// import travelers_compass from '../../assets/travelers_compass.png';
+
+
 
 const Card = ({ id, title, description, repoLink, deployedLink, lastUpdated, picturePath }) => {
     let projectID = `0${id}`;

@@ -35,15 +35,7 @@ const Footer = () => {
                 >
                     <i className="fas fa-envelope fa-2x"></i>
                 </a>
-                {/* <a 
-                    className="ml-4 text-dark" 
-                    title="Download Resume" 
-                    target="_blank" 
-                    rel="noopener noreferrer" 
-                    href={Resume} download
-                >
-                    <i className="fas fa-file-download fa-2x"></i>
-                </a> */}
+                
             </span>
         </nav>
 	);

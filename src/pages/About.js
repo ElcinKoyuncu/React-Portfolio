@@ -8,7 +8,7 @@ const About = () => {
       <Container>
          <Jumbotron className="mt-3 mb-3">
             <h1 className="bigWordName m-0 text-right">Elcin Koyuncu</h1>
-            <h1 className="bigWord m-0 text-right">Full Stack Developer</h1> 
+            <h2 className="bigWord m-0 text-right">Full Stack Developer</h2> 
          </Jumbotron>
          <Row fluid>
             <Col size="md-4">   
