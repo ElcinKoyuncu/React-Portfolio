@@ -1,0 +1,35 @@
+h3 {
+    margin-top: 5px;
+    padding: 0;
+    color: white;
+}
+
+p { 
+    margin-left: 5px; 
+    font-weight: bold;
+    color: white;
+}
+
+.smallWord { 
+    font-size: smaller;
+    color: lightblue;
+}
+
+.smallGrey {
+    color: #ccc;
+}
+
+a {
+    font-size: 15px;
+    color: white;
+}
+
+a:hover { color: white; }
+
+img {
+    min-width: auto;
+    max-width: 40rem;
+    max-height: 27rem;
+}
+
+.card { background-color: #2d3e50 ;}
