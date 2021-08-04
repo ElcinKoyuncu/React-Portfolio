@@ -11,7 +11,7 @@ import work_day_schedular from '../../assets/work_day_schedular.png';
 
 const Card = ({ id, title, description, repoLink, deployedLink, lastUpdated, picturePath }) => {
     let projectID = `0${id}`;
-    let projects = [note_taker, password_generate, project1, project2, weather_dashboard, work_day_schedular, ];
+    let projects = [ note_taker, password_generate, project1, project2, weather_dashboard, work_day_schedular, ];
     let chosenProjectPic = projects.filter(project => project.includes(picturePath));
 
     return (

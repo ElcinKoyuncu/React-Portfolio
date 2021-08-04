@@ -10,7 +10,7 @@ const About = () => {
             <h1 className="bigWordName m-0 text-right">Elcin Koyuncu</h1>
             <h2 className="bigWord m-0 text-right">Full Stack Developer</h2> 
          </Jumbotron>
-         <Row fluid>
+         <Row>
             <Col size="md-4">   
                <img src={picture} className="img-thumbnail mt-3" alt="eunah-headshot" />
             </Col>
