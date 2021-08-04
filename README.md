@@ -9,7 +9,7 @@ This is the homework for React: React Portfolio.
 
 ## Screenshot for the application
 
-![Screenshot](./assets/screenshot.png)
+![Screenshot](./src/assets/screenshot.png)
 
 ## User Story
 
