@@ -8,7 +8,7 @@ const AboutMe = () => {
     <MDBContainer className="resume mt-5">
       <MDBRow>
         <MDBCol md="12">
-          <embed id="Resume" src={Resume} width="100%" height="750px" />
+          <embed id="Resume" src={Resume} width="100%" />
         </MDBCol>
       </MDBRow>
     </MDBContainer>
