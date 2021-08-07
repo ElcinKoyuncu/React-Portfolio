@@ -6,6 +6,7 @@ import { skills } from '../profile';
 import Skills from '../components/Skills/Skills';
 import '../components/Skills/style.css';
 
+
 const About = () => {
    return (
       <Container>
