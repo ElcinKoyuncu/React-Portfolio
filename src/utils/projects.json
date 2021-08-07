@@ -18,11 +18,11 @@
 	
 	{
 		"id": 3,
-		"title": "Note Taker",
-		"description": "To be able to write and save notes. Can organize your thoughts and keep track of tasks you need to complete.",
-		"repoLink": "https://elcinkoyuncu.github.io/homework10/",
-		"deployedLink": "https://mighty-coast-46747.herokuapp.com/",
-		"picturePath": "note_taker"
+		"title": "Budget Tracker",
+		"description": "To be able to track your withdrawals and deposits with or without a data/internet connection SO THAT your account balance is accurate when you are traveling",
+		"repoLink": "https://elcinkoyuncu.github.io/Budget-Tracker/",
+		"deployedLink": "https://still-beach-55186.herokuapp.com/",
+		"picturePath": "budget_tracker"
 	},
 	{
 		"id": 4,

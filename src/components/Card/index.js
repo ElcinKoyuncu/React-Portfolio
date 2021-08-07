@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import note_taker from '../../assets/note_taker.png';
+import budget_tracker from '../../assets/budget_tracker.png';
 import password_generate from '../../assets/password_generate.png';
 import project1 from '../../assets/project1.png';
 import project2 from '../../assets/project2.png';
@@ -11,7 +11,7 @@ import work_day_schedular from '../../assets/work_day_schedular.png';
 
 const Card = ({ id, title, description, repoLink, deployedLink, lastUpdated, picturePath }) => {
     let projectID = `0${id}`;
-    let projects = [ note_taker, password_generate, project1, project2, weather_dashboard, work_day_schedular, ];
+    let projects = [budget_tracker, password_generate, project1, project2, weather_dashboard, work_day_schedular, ];
     let chosenProjectPic = projects.filter(project => project.includes(picturePath));
 
     return (

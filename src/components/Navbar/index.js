@@ -60,6 +60,18 @@ const NavBar = () => {
 							PORTFOLIO
 						</Link>
 					</li>
+					<li className='nav-item'>
+						<Link
+							to='/resume'
+							className={
+								window.location.pathname === '/resume'
+									? 'nav-link active'
+									: 'nav-link'
+							}
+						>
+							RESUME
+						</Link>
+					</li>
 				</ul>
 			</div>
 		</nav>

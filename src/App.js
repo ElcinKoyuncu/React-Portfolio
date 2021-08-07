@@ -5,7 +5,9 @@ import Footer from './components/Footer';
 import Wrapper from './components/Wrapper';
 import About from './pages/About';
 import Home from './pages/Home';
+import ResumePage from './pages/ResumePage';
 import Portfolio from './pages/Portfolio';
+
 
 const App = () => {
     return (
@@ -22,6 +24,9 @@ const App = () => {
                         </Route>
                         <Route exact path="/aboutme">
                             <About />
+                        </Route>
+                        <Route exact path="/resume">
+                            <ResumePage />
                         </Route>
                         <Route>
                             <Home />
