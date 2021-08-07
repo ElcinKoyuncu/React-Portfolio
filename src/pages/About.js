@@ -18,13 +18,13 @@ const About = () => {
                <img src={picture} className="img-thumbnail mt-3" alt="eunah-headshot" />
             </Col>
             <Col size="md-8">   
-               <h2 className="mb-1 text-info">who am I?</h2>
+               <h2 className="mb-1 text-info">Who am I?</h2>
                <p>Solution-driven Full Stack Web Developer with 8 years of analytical experience; proven management, 
 sales and coaching skills. Recognized for innovation, being detail oriented, working under pressure 
 and adapting new conditions. Excellent interpersonal communication skills and collaborator who 
 works well on team-based projects as well as independently. Recognized for proven complex 
 problem-solving abilities to contribute effectively as a part of a fast-paced, quality-driven team.</p>
-               <h2 className="mb-1 text-info">skills</h2>
+               <h2 className="mb-1 text-info">Skills</h2>
                <div id="Skills"> 
                 <div className="row d-flex justify-content-center skills">
                     {skills.map((x) => 
@@ -33,7 +33,7 @@ problem-solving abilities to contribute effectively as a part of a fast-paced, q
                 </div> 
             </div>
               
-               <h2 className="mb-1 text-info">education</h2> 
+               <h2 className="mb-1 text-info">Education</h2> 
                <h4 className="mb-0">UNIVERSITY OF MIAMI</h4>
                <span className="text-white ml-3">MARCH - AUGUST 2021</span><br/>
                <span className="text-white ml-3">FULL STACK WEB DEVELOPMENT CERTIFICATE</span>
