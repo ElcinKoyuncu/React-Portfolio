@@ -17,11 +17,11 @@ const skills = [
       // svg: '',
       faClass: "fab fa-js",
     },
-    // {
-    //   name: "SASS",
-    //   // svg: '',
-    //   faClass: "fab fa-sass",
-    // },
+    {
+      name: "React",
+      // svg: '',
+      faClass: "fab fa-react",
+    },
     {
       name: "Node",
       // svg: '',
@@ -30,7 +30,7 @@ const skills = [
     // {
     //   name: "Python",
     //   // svg: '',
-    //   faClass: "fab fa-python",
+    //   faClass: "fab fa-illustrator",
     // },
     // {
     //   name: "Java",
@@ -47,11 +47,11 @@ const skills = [
       // svg: '',
       faClass: "fas fa-database",
     },
-    // {
-    //   name: "AWS",
-    //   // svg: '',
-    //   faClass: "fab fa-aws",
-    // },
+    {
+      name: "Github",
+      // svg: '',
+      faClass: "fab fa-github",
+    },
   ];
 
 export {skills}

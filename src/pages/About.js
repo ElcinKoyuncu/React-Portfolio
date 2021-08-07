@@ -32,7 +32,7 @@ problem-solving abilities to contribute effectively as a part of a fast-paced, q
                     )}̀
                 </div> 
             </div>
-              
+               {/* <p>HTML5 | CSS3 | JAVASCRIPT | jQUERY | NODE.JS | MONGO-DB | MYSQL | REACT | EXPRESS | EXPRESS-HANDLEBARS | JSON | ADOBE ILLUSTRATOR | ADOBE PHOTOSHOP | ADOBE INDESIGN | ADOBE DREAMWEAVER</p>     */}
                <h2 className="mb-1 text-info">education</h2> 
                <h4 className="mb-0">UNIVERSITY OF MIAMI</h4>
                <span className="text-white ml-3">MARCH - AUGUST 2021</span><br/>
