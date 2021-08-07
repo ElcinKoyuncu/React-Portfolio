@@ -18,7 +18,7 @@ const About = () => {
                <img src={picture} className="img-thumbnail mt-3" alt="eunah-headshot" />
             </Col>
             <Col size="md-8">   
-               <h2 className="mb-1 text-info">who am i?</h2>
+               <h2 className="mb-1 text-info">who am I?</h2>
                <p>Solution-driven Full Stack Web Developer with 8 years of analytical experience; proven management, 
 sales and coaching skills. Recognized for innovation, being detail oriented, working under pressure 
 and adapting new conditions. Excellent interpersonal communication skills and collaborator who 
@@ -32,7 +32,7 @@ problem-solving abilities to contribute effectively as a part of a fast-paced, q
                     )}̀
                 </div> 
             </div>
-               {/* <p>HTML5 | CSS3 | JAVASCRIPT | jQUERY | NODE.JS | MONGO-DB | MYSQL | REACT | EXPRESS | EXPRESS-HANDLEBARS | JSON | ADOBE ILLUSTRATOR | ADOBE PHOTOSHOP | ADOBE INDESIGN | ADOBE DREAMWEAVER</p>     */}
+              
                <h2 className="mb-1 text-info">education</h2> 
                <h4 className="mb-0">UNIVERSITY OF MIAMI</h4>
                <span className="text-white ml-3">MARCH - AUGUST 2021</span><br/>
