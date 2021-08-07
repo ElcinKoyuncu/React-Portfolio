@@ -26,11 +26,10 @@ const skills = [
       name: "Bootstrap",
       faClass: "fab fa-bootstrap",
     },
-    // {
-    //   name: "Java",
-    //   // svg: '',
-    //   faClass: "fab fa-java",
-    // },
+    {
+      name: "Github",
+      faClass: "fab fa-github",
+    },
     // {
     //   name: "PHP",
     //   // svg: '',
