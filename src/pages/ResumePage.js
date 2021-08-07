@@ -12,16 +12,3 @@ function ResumePage() {
 
 export default ResumePage;
 
-
-
-
-// const Resume = () => {
-// 	return (
-// 		<Container>
-//       <PDF url={"http://localhost:3000/Resume.pdf"}></PDF>
-
-// 		</Container>
-// 	);
-// };
-
-// export default Resume;
