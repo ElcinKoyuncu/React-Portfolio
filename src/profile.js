@@ -23,6 +23,10 @@ const skills = [
       faClass: "fab fa-node",
     },
     {
+      name: "Database",
+      faClass: "fas fa-database",
+    },
+    {
       name: "Bootstrap",
       faClass: "fab fa-bootstrap",
     },
@@ -30,20 +34,8 @@ const skills = [
       name: "Github",
       faClass: "fab fa-github",
     },
-    // {
-    //   name: "PHP",
-    //   // svg: '',
-    //   faClass: "fab fa-php",
-    // },
-    {
-      name: "Database",
-      faClass: "fas fa-database",
-    },
-    // {
-    //   name: "AWS",
-    //   // svg: '',
-    //   faClass: "fab fa-aws",
-    // },
+    
+    
   ];
 
 export {skills}
