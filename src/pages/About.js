@@ -2,6 +2,9 @@ import React from 'react';
 import { Container, Row, Col } from '../components/Grid';
 import Jumbotron from '../components/Jumbotron';
 import picture from '../assets/profile_picture.jpg';
+import { skills } from '../profile';
+import Skills from '../components/Skills/Skills';
+import '../components/Skills/style.css';
 
 const About = () => {
    return (
@@ -22,7 +25,14 @@ and adapting new conditions. Excellent interpersonal communication skills and co
 works well on team-based projects as well as independently. Recognized for proven complex 
 problem-solving abilities to contribute effectively as a part of a fast-paced, quality-driven team.</p>
                <h2 className="mb-1 text-info">skills</h2>
-               <p>HTML5 | CSS3 | JAVASCRIPT | jQUERY | NODE.JS | MONGO-DB | MYSQL | REACT | EXPRESS | EXPRESS-HANDLEBARS | JSON | ADOBE ILLUSTRATOR | ADOBE PHOTOSHOP | ADOBE INDESIGN | ADOBE DREAMWEAVER</p>    
+               <div id="Skills"> 
+                <div className="row d-flex justify-content-center skills">
+                    {skills.map((x) => 
+                        <Skills key={x.name} faClass={x.faClass} svg={x.svg} label={x.name}/>
+                    )}̀
+                </div> 
+            </div>
+              
                <h2 className="mb-1 text-info">education</h2> 
                <h4 className="mb-0">UNIVERSITY OF MIAMI</h4>
                <span className="text-white ml-3">MARCH - AUGUST 2021</span><br/>
