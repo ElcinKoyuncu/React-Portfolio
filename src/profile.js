@@ -11,7 +11,7 @@ const skills = [
       faClass: "fab fa-css3"
     },
     {
-      name: "Javascript",
+      name: "JavaScript",
       faClass: "fab fa-js",
     },
     {
@@ -31,7 +31,7 @@ const skills = [
       faClass: "fab fa-bootstrap",
     },
     {
-      name: "Github",
+      name: "GitHub",
       faClass: "fab fa-github",
     },
     
