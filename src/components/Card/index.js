@@ -28,7 +28,7 @@ const Card = ({ id, title, description, repoLink, deployedLink, lastUpdated, pic
                 <div className="row overflow-auto" style={{height: "110px"}}>
                     <p className="card-text p-2 text-justify">{description}</p>
                 </div>
-                <a href={repoLink} target="_blank" rel="noopener noreferrer" className="text-decoration-none">Click here for the Github Repo</a><small className="smallGrey" id="deployedLinkMsg"> or click the image for the deployed application</small>
+                <a href={repoLink} target="_blank" rel="noopener noreferrer" className="text-decoration-none">Click here for the GitHub Repo</a><small className="smallGrey" id="deployedLinkMsg"> or click the image for the deployed application</small>
                 <p className="card-text"><small className="smallWord">Last updated on {lastUpdated}</small></p>
             </div>
         <a href={deployedLink} target="_blank" rel="noopener noreferrer"><img src={chosenProjectPic} className="card-img-bottom border border-info border-top-0" alt={title} /></a>
